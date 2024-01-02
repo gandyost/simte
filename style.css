@@ -1,0 +1,60 @@
+*{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    color: black;
+}
+
+#mains{
+    text-align: center;
+    font-size: 40px;
+    margin: 10px;
+}
+
+.pictures{
+    text-align: center;
+    margin: 10px;
+}
+
+#mainb{
+    text-align: center;
+}
+
+#mainbutton{
+    text-align: center;
+}
+
+#mainbutton a{
+    display: inline-block;
+    padding: 20px;
+    width: 50%;
+    background-color:  rgb(190, 160, 218);
+}
+
+/* 아래는 퀴즈 양식입니다.*/
+
+.blank{
+    display: block;
+    height: 20px;
+}
+
+.question{
+    text-align: center;
+    font-size: 20px;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+.question p{
+    margin-bottom: 5px;
+}
+
+.answer{
+    text-align: center;
+}
+.answer a{
+    display: inline-block;
+    padding: 20px;
+    width: 50%;
+    background-color: rgb(190, 160, 218);
+    margin: 5px;
+}
